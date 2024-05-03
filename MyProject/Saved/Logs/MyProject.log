@@ -1397,3 +1397,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.03-12.19.52:804][  0]LogSlate: Took 0.002827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.05.03-12.19.52:821][  0]LogViewport: Scene viewport resized to 3056x1881, mode Windowed.
 [2024.05.03-12.19.53:338][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.03-12.21.34:655][636]LogDerivedDataCache: C:/Users/U0007327/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.036 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 306 files in 557 folders with total size 11 MiB.
+[2024.05.03-12.23.57:401][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-12.23.57:436][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-12.24.02:600][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.03-12.24.02:602][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-12.24.02:656][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.05.03-12.24.02:657][915]LogSavePackage: Moving 'D:/Git Test/Test-Git-Ue5/MyProject/Saved/GK06JAEJ82TQ0GA2QB0DJG908424634A0409988D2C4B9AFDEA59E0.tmp' to 'D:/Git Test/Test-Git-Ue5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.05.03-12.24.02:703][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.18 sec)
+[2024.05.03-12.24.02:710][915]AssetCheck: New page: Asset Save: StaticMeshActor_2
+[2024.05.03-12.24.02:711][915]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
